@@ -21,3 +21,6 @@
 .idea
 .idea/*
 vendor/bundle
+
+coverage
+coverage/*
